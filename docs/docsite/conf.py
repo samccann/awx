@@ -37,9 +37,7 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
     'sphinx_ansible_theme',
-    'sphinxcontrib.autoprogram',
     'swagger',
-    'cli.cli',
 ]
 
 html_theme = 'sphinx_ansible_theme'

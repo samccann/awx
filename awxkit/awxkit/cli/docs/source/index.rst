@@ -26,7 +26,7 @@ Potential uses include:
    authentication
    output
    examples
-   reference
+   
 
 Indices and tables
 ==================
